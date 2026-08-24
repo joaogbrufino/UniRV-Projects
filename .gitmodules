@@ -4,3 +4,6 @@
 [submodule "nf-ai-dados"]
 	path = nf-ai-dados
 	url = https://github.com/joaogbrufino/nf-ai-dados
+[submodule "presenca-alunos-fasoft"]
+	path = presenca-alunos-fasoft
+	url = https://github.com/joaogbrufino/presenca-alunos-fasoft.git
